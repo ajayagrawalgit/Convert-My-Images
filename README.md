@@ -23,18 +23,6 @@
 <img src="https://img.shields.io/github/repo-size/ajayagrawalgit/Convert-My-Images?label=Repo%20Size&logo=Github&style=flat-square" alt="Convert-My-Images Repo Size"/>
 </a>
 
-<br><br>
-## 🧶 Supported Image Formats
-#### Converts Images from and to below formats:
-- PNG
-- JPEG
-- PPM
-- GIF
-- TIFF
-- BMP
-
-<br>
-
 
 <h3 align="center">💻 Compatible with all the Linux Distros and MacOS 💻<h3>
 <h4 align="center">Specifically Tested on MacOS, RHEL and Ubuntu<h4>
@@ -81,6 +69,19 @@ cd Convert-My-Images
 ```Bash
 convertmyimages
 ```
+<br>
+ 
+ 
+<br><br>
+## 🧶 Supported Image Formats
+#### Converts Images from and to below formats:
+- PNG
+- JPEG
+- PPM
+- GIF
+- TIFF
+- BMP
+
 <br>
 
 <br>
