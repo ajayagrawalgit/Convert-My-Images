@@ -3,4 +3,7 @@
 <h1 align="center">🌟 Convert-My-Images 🌟</h1>
 <p align="center"><repo-desc></p>
 
-https://img.shields.io/badge/LICENSE-MIT-orange
+<p align="center">
+<a href="https://github.com/ajayagrawalgit/Convert-My-Images/blob/main/LICENSE" title="License">
+<img src="https://img.shields.io/badge/LICENSE-MIT-orange&logo=Github&style=flat-square" alt="<repo-title> License"/>
+</a>
