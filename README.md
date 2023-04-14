@@ -10,5 +10,5 @@ Installation Steps:
 git clone git@github.com:ajayagrawalgit/Convert-My-Images.git
 
 2. Copy-Paste the commands below on to your Terminal:
-cd Convert-My-Images
+cd Convert-My-Images;
 ./install.sh
