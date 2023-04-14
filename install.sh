@@ -67,7 +67,7 @@ fi
 
 
 
-
+cur_dir = $(pwd)
 
 # set the file/directory path
 LIB_PATH="/usr/local/lib/convert-my-images" # Complete Code
@@ -108,7 +108,7 @@ function install() {
   fi
 
   echo "Copying necessary files now ..."
-  cp -R .* $LIB_PATH
+  cp -R $cur_dir $LIB_PATH
   if [ $? -ne 0 ]; then
 
     echo "Installation Failed"
