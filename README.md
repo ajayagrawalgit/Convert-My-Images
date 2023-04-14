@@ -32,3 +32,50 @@
 - GIF
 - TIFF
 - BMP
+
+<br>
+## 💻 Compatible with all the Linux Distros and MacOS
+#### Specifically Tested on MacOS, RHEL and Ubuntu
+
+<br><br>
+
+## 🛠️ Installation Steps
+
+#### 1. Clone the Repository
+
+```Bash
+git clone https://github.com/ajayagrawalgit/Convert-My-Images.git
+```
+
+<br>
+
+#### 2. Go Inside the Cloned Repository
+
+```Bash
+cd Convert-My-Images
+```
+
+<br>
+
+
+#### 3. Just the Install Script
+
+```Bash
+./install.sh
+```
+
+<br>
+
+
+## 
+
+<br>
+
+## ❗ Available Commands
+ 
+#### After Installation, Just run the command below and you'll be able to take it forward from there ❤️
+
+```Bash
+convertmyimages
+```
+<br>
