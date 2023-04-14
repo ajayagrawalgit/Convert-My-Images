@@ -97,8 +97,8 @@ convertmyimages
  
  
  ## 🧑🏻 Know Me More
-
-<center> Developer - <b> Ajay Agrawal </b></center>
+<br>
+Developer - <b> Ajay Agrawal </b>
 
 - 🌌 [Profile](https://github.com/ajayagrawalgit "Ajay Agrawal")
 - 🏮 [Email](mailto:ajayagrawalhere@gmail.com?subject=Hi%20from%20<repo-email> "Hi!")
