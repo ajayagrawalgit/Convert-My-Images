@@ -82,3 +82,11 @@ cd Convert-My-Images
 convertmyimages
 ```
 <br>
+
+<br>
+
+## 🎊 Future Updates
+
+- [ ] Add support for more Image Formats.
+- [ ] Better Path Handling according to the OS Type.
+- [ ] Beautify the text displayed on the terminal.
