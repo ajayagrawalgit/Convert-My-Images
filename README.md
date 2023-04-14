@@ -4,7 +4,7 @@
 <p align="center"><repo-desc></p>
 
 <p align="center">
-<a href="https://github.com/<repo-owner>/<repo-name>/blob/master/LICENSE" title="License">
+<a href=https://github.com/ajayagrawalgit/Convert-My-Images/blob/main/LICENSE" title="License">
 <img src="https://img.shields.io/github/license/<repo-owner>/<repo-name>?label=License&logo=Github&style=flat-square" alt="<repo-title> License"/>
 </a>
 <a href="https://github.com/<repo-owner>/<repo-name>/fork" title="Forks">
