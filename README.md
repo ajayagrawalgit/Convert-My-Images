@@ -74,7 +74,7 @@ cd Convert-My-Images
 
 <br>
 
-## ❗ Available Commands
+## ❗ Just One Command is all you need 🌟
  
 #### After Installation, Just run the command below and you'll be able to take it forward from there ❤️
 
