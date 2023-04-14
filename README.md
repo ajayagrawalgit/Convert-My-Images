@@ -22,3 +22,13 @@
 <a href="https://github.com/ajayagrawalgit/Convert-My-Images" title="Repo Size">
 <img src="https://img.shields.io/github/repo-size/ajayagrawalgit/Convert-My-Images?label=Repo%20Size&logo=Github&style=flat-square" alt="Convert-My-Images Repo Size"/>
 </a>
+
+<br><br>
+## 🧶 Supported Image Formats
+#### Converts Images from and to below formats:
+- PNG
+- JPEG
+- PPM
+- GIF
+- TIFF
+- BMP
