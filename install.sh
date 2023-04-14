@@ -64,6 +64,8 @@ if [[ $? -ne 0 ]]; then
   exit 1
 fi
 
+sleep 2
+
 
 echo -e "$(date): Performing some cleanup before starting ..."
 if [ -d "/usr/local/lib/convertmyimages" ]; then
@@ -78,15 +80,20 @@ fi
 
 echo -e "Cleanup Completed !"
 
+sleep 2
 
 echo -e "$(date): \n\nCopying Libraries Now..."
 mkdir /usr/local/lib/convertmyimages
 cp -r * /usr/local/lib/convertmyimages/.
 echo -e "$(date): \n\nLibraries Copied..."
 
+sleep 2
+
 echo -e "\n\n$(date): \n\nMaking the library accessible accross terminal now..."
 ln -s /usr/local/lib/convertmyimages/src/convertmyimages.sh /usr/local/bin/convertmyimages
 chmod 755 /usr/local/lib/convertmyimages/src/*
 
-echo -e "$(date): Convert-My-Images Installed Successfullly"
+sleep 4
+
+echo -e "\n$(date): Convert-My-Images Installed Successfullly\nTry running this command -> convertmyimages\nAnd then you'll be able to understand the rest where to take it forward from there 😉\n\nAll the best 🔥\n"
 
