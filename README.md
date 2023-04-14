@@ -50,7 +50,7 @@ chmod 755 *
 <br>
 
 
-#### 3. Just the Install Script
+#### 3. Just run the Install Script
 
 ```Bash
 ./install.sh
