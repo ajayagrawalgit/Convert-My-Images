@@ -34,7 +34,8 @@
 - BMP
 
 <br>
-##  💻 Compatible with all the Linux Distros and MacOS
+ 
+## 💻 Compatible with all the Linux Distros and MacOS
 #### Specifically Tested on MacOS, RHEL and Ubuntu
 
 <br><br>
