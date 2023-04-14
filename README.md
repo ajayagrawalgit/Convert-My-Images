@@ -106,4 +106,5 @@ Developer - <b> Ajay Agrawal </b>
 <br>
 <br>
 <h2 align="center"> 🤝 Support Me 🤝 <h2>
-<a href="https://www.buymeacoffee.com/ajayagrawal"><![image](https://user-images.githubusercontent.com/94609372/232127728-147b9da8-8597-4834-bd30-0b20aa6315be.png) </a>
+<a href="https://www.buymeacoffee.com/ajayagrawal">  ![image](https://user-images.githubusercontent.com/94609372/232127833-d03502af-baf2-46e3-a045-0f7c84531a61.png)
+ </a>
