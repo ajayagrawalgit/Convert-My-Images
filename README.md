@@ -40,10 +40,11 @@ git clone https://github.com/ajayagrawalgit/Convert-My-Images.git
 
 <br>
 
-#### 2. Go Inside the Cloned Repository
+#### 2. Go Inside the Cloned Repository and Change some Permissions (Changing permissions are required for some OS Types)
 
 ```Bash
 cd Convert-My-Images
+chmod 755 *
 ```
 
 <br>
