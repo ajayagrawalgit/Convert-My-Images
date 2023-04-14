@@ -35,10 +35,11 @@
 
 <br>
 
-<p align="center">
-<h3>💻 Compatible with all the Linux Distros and MacOS<br>
-Specifically Tested on MacOS, RHEL and Ubuntu</h3>
-</p>
+
+<h5 align="center">💻 Compatible with all the Linux Distros and MacOS<br>
+Specifically Tested on MacOS, RHEL and Ubuntu
+<h5>
+
 
 <br><br>
 
