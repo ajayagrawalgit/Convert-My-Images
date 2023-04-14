@@ -36,7 +36,7 @@
 <br>
  
 ## 💻 Compatible with all the Linux Distros and MacOS
-<p align="center"> #### Specifically Tested on MacOS, RHEL and Ubuntu </p>
+<p align="center"> Specifically Tested on MacOS, RHEL and Ubuntu </p>
 
 <br><br>
 
