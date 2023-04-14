@@ -5,5 +5,5 @@
 
 <p align="center">
 <a href="https://github.com/ajayagrawalgit/Convert-My-Images/blob/main/LICENSE" title="License">
-<img src="https://img.shields.io/badge/LICENSE-MIT-orange&logo=Github&style=flat-square" alt="<repo-title> License"/>
+<img src="https://img.shields.io/badge/LICENSE-MIT-orange" alt="Convert-My-Images License"/>
 </a>
