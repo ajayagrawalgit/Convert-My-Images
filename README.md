@@ -109,7 +109,7 @@ Developer - <b> Ajay Agrawal </b>
 <h2 align="center"> 🤝 Support Me 🤝 <h2>
 <p align="center">
 <a href="https://www.buymeacoffee.com/ajayagrawal" title="Buy me a Coffee"><img src="https://user-images.githubusercontent.com/94609372/232127833-d03502af-baf2-46e3-a045-0f7c84531a61.png" alt="Buy me a Coffee"/></a>
-</p>
+</p><h2>
 <br><br>
 <p align="center"> Made with ♥️ in India </p>
 <br>
