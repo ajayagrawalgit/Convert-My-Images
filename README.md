@@ -97,14 +97,71 @@ Also, if you don't want to install Git as well on your Machine, you can also con
 
 
 
-## ❗ Just One Command is all you need 🌟
- 
-#### After Installation, Just run the command below and you'll be able to take it forward from there ❤️
 
+
+
+<br><br>
+
+## ❗ How to Use ? 🦾
+ 
+> Using the tool is pretty easy to be honest 💫 Please read the instructions below according to your OS:️
+
+### For all Linux Distros and MacOS:
+**For help:**
 ```Bash
-convertmyimages
+convertmyimages -h
+OR 
+convertmyimages --help
 ```
 <br>
+
+**Tool Syntax:**
+```Bash
+convertmyimages <source_path> <destination_path> <initial_format> <final_format>
+```
+<br>
+
+**Examples:**
+```Bash
+$> convertmyimages /Users/ajay.agrawal/Downloads /Users/ajay.agrawal/Documents jpg png
+$> convertmyimages /Users/ajay.agrawal/Downloads ConvertedImages png gif
+```
+
+_Example No. 1_ is pretty self-explanatory. It will convert all the Images of the extension `.jpg` stored in `/Users/ajay.agrawal/Downloads` and save the converted Images to `/Users/ajay.agrawal/Documents`
+
+_Example No. 2_ is a little different. Here you can see that, The destination path is just a Name. Which may or may not be there on your present working directory. If it is present there, Offcourse the script will choose that as a destination path and even if it is not, the tool will create a directory of the name `ConvertedImages` and save the Converted Images of `/Users/ajay.agrawal/Downloads` to `ConvertedImages`.
+
+Don't worry ! Whatever is the case. Once you run the tool. You don't have to search for the location where the tool is saving the files as it'll provide you the path what it chooses to save the files.
+
+<br><br>
+
+### For Windows:
+**Move to the `src` folder and execute `main.py` like stated below:**
+**For help:**
+```cmd
+cd /d Convert-My-Images/src
+```
+```Bash
+python3 main.py -h
+OR
+python3 main.py --help
+```
+<br>
+
+**Tool Syntax (Remains the same):**
+```Bash
+convertmyimages <source_path> <destination_path> <initial_format> <final_format>
+```
+<br>
+
+**Examples:**
+```cmd
+\Convert-My-Images\src>   python3 main.py D:\MyImages D:\MyImages_Converted
+\Convert-My-Images\src>   python3 main.py D:\MyImages MyConvertedImages
+```
+
+<br><br>
+
  
  
 <br><br>
