@@ -30,6 +30,40 @@
 
 <br><br>
 
+
+
+
+## 🛰️ Description / How the tool works ?
+Language: `Python` <br>
+Libraries Used: `PILLOW`, `os`, `sys`<br>
+
+<br>
+
+**FAQs:**
+1. Can I use this tool to convert a Single Image  ?
+_Yes you can ! But as this tool is made specifically for **Bulk Image Conversions**, you need to create a Directory/Folder in which you store that one single image to convert and give the paths accordingly._
+
+2. How is it different from any other Image Converters which are Popular in Market ?
+_Offcourse ! Softwares like XnConvert, Adapter & Pixillion Image Converter Software, etc have a different place all together that cannot be denied and this tool is not at all a competition to those in any way. Consider this tool as a utility which you can may be configure in your linux/windows "servers" to automate the Image Conversion tasks/jobs if you have any of such requirements. As this is made using one of the most robust languages "Python", it can easily handle bulk conversions. Also, Cherry on the cake, it's an Open Source Software_ 😊
+
+**For Better Understanding, Here's a Quick Description for Convert-My-Images:**
+
+The tool accepts 4 parameters: <source_path> <destination_path> <initial_format> <final_format>
+Source Path: The path where all the Images you want to convert as stored.
+Destination Path: The path where you want to store your Converted Images.
+Initial Format: Now, the source Path can have multiple images having formats of more than one type. Here you need to specify the type "you" need the conversion for.
+Final Format: This is the format you want the Images to be converted.
+
+> Note: Please make sure you don't give the format names with a dot (.). For example, if you want to convert all the jpg images to png. the command should be like `convertmyimages /path/to/source/ /path/to/destination/ jpg png`
+
+I hope you find the Description and the Flow-Chart useful. If you have any further questions, Please feel free to reach out and details for that are in _Know Me More_ section below.
+
+Have a great day ahead 🥂 
+
+
+<br><br>
+
+
 ## 🛠️ Installation Steps (All Linux Distros and MacOS)
 
 #### 1. Clone the Repository
