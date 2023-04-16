@@ -40,16 +40,10 @@ Libraries Used: `PILLOW`, `os`, `sys`<br>
 <br>
 
 **FAQs:**
-1. Can I use this tool to convert a Single Image  ?
- 
- <br>
- 
+1. Can I use this tool to convert a Single Image  ?  <br>
 _Yes you can ! But as this tool is made specifically for **Bulk Image Conversions**, you need to create a Directory/Folder in which you store that one single image to convert and give the paths accordingly._
 
-2. How is it different from any other Image Converters which are Popular in Market ?
- 
- <br>
- 
+2. How is it different from any other Image Converters which are Popular in Market ?  <br>
  _Offcourse ! Softwares like XnConvert, Adapter & Pixillion Image Converter Software, etc have a different place all together that cannot be denied and this tool is not at all a competition to those in any way. Consider this tool as a utility which you can may be configure in your linux/windows "servers" to automate the Image Conversion tasks/jobs if you have any of such requirements. As this is made using one of the most robust languages "Python", it can easily handle bulk conversions. Also, Cherry on the cake, it's an Open Source Software_ 😊
 
  <br>
