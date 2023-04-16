@@ -58,7 +58,9 @@ Final Format: This is the format you want the Images to be converted.
 
 > Note: Please make sure you don't give the format names with a dot (.). For example, if you want to convert all the jpg images to png. the command should be like `convertmyimages /path/to/source/ /path/to/destination/ jpg png`
 
-I hope you find the Description and the Flow-Chart useful. If you have any further questions, Please feel free to reach out and details for that are in _Know Me More_ section below.
+<br>
+
+I hope you find the Description useful. If you have any further questions, Please feel free to reach out and details for that are in _Know Me More_ section below.
 
 Have a great day ahead 🥂 
 
