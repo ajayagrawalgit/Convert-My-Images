@@ -55,6 +55,13 @@ def convert_images(source, destination, init_file_format, final_file_format):
 
 
 def main():
+   if len(sys.argv) == 1:
+        messages.print_help()
+        sys.exit(0)
+   elif sys.argv[1] == "-h" or sys.argv[1] == "--help":
+        messages.help_message()
+        sys.exit(0)
+
    if len(sys.argv) >= 3:
     try:
         source, destination, init_file_format, final_file_format = check_paths(sys.argv[1], sys.argv[2], sys.argv[3], sys.argv[4])
